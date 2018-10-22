@@ -1,0 +1,15 @@
+.employee-list {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+.employee-list .container div {
+    display: inline-block;
+    align-content: space-between;
+    margin-left: 1em;
+}
+
+.thumbnail {
+    width: 300px;
+}
